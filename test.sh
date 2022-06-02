@@ -1,4 +1,4 @@
-!#/bin/sh
+#!/bin/sh
 echo "repo list"
 yum list
 echo "current date"
